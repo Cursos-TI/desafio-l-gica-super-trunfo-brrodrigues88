@@ -42,7 +42,7 @@ int main() {
     printf("Números de Pontos Turísticos: %d\n", Turismo2);
 
     //Comparação
-    if (População1 <= População2) {
+    if (População1, População2) {
         printf("\n%s tem uma população menor que %s\n", Cidade1, Cidade2);
     }
 
